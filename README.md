@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/DanAzevedo/file-management?style=for-the-badge)](https://github.com/DanAzevedo/file-management/issues)
 
 <p>
-<img src="http://img.shields.io/static/v1?label=STATUS&message=%20DEVELOPING&color=YELLOW&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20TEST&color=blueviolet&style=for-the-badge"/>
 </p>
 
 <h3>Sistema simples para organizar arquivos do mesmo tipo em uma pasta feito com o intuito de estudo.</h3>
