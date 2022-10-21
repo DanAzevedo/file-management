@@ -1,8 +1,8 @@
 > <h1>File Management.</h1>
-[![GitHub license](https://img.shields.io/github/license/DanAzevedo/parking-space-counter?style=for-the-badge)](https://github.com/DanAzevedo/parking-space-counter/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/DanAzevedo/parking-space-counter?style=for-the-badge)](https://github.com/DanAzevedo/parking-space-counter/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/DanAzevedo/parking-space-counter?style=for-the-badge)](https://github.com/DanAzevedo/parking-space-counter/network)
-[![GitHub issues](https://img.shields.io/github/issues/DanAzevedo/parking-space-counter?style=for-the-badge)](https://github.com/DanAzevedo/parking-space-counter/issues)
+[![GitHub license](https://img.shields.io/github/license/DanAzevedo/parking-space-counter?style=for-the-badge)](https://github.com/DanAzevedo/file-management/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/DanAzevedo/file-management?style=for-the-badge)](https://github.com/DanAzevedo/file-management/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/DanAzevedo/file-management?style=for-the-badge)](https://github.com/DanAzevedo/file-management/network)
+[![GitHub issues](https://img.shields.io/github/issues/DanAzevedo/file-management?style=for-the-badge)](https://github.com/DanAzevedo/file-management/issues)
 
 <p>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20DEVELOPING&color=YELLOW&style=for-the-badge"/>
