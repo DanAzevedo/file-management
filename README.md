@@ -11,6 +11,7 @@
 <h3>Sistema simples para organizar arquivos do mesmo tipo em uma pasta feito com o intuito de estudo.</h3>
 <h3>Simple system to organize files of the same type in a folder made for the purpose of study.</h3>
 
+> <h3>✔️Tecnologias utilizadas/Technologies used</h3>
 - [Python 3.9](https://www.python.org/)
 - [OS](https://docs.python.org/3/library/os.html)
 
